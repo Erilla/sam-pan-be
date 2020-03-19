@@ -1,0 +1,34 @@
+[
+  {
+    "mealLetter": "A",
+    "name": "For 2 Person",
+    "price": 19.5,
+    "mealItems": "Mini Spring Roll(10),Barbecues Spare Ribs,Sweet & Sour Chicken Balls,Chicken with Green Pepper in Black Bean Sauce,Yung Chow Fried Rice",
+    "vegetarian": "false",
+    "categories": "Starter,Pork,SweetSour,Chicken,Rice,Seafood"
+  },
+  {
+    "mealLetter": "B",
+    "name": "For 3 Person",
+    "price": 26.5,
+    "mealItems": "Mini Spring Roll(10),Sweet & Sour Chicken (Cantonese Style),Chicken with Green Pepper in Black Bean Sauce,Beef with Mushroom,King Prawns Chop Suey,Yung Chow Fried Rice",
+    "vegetarian": "false",
+    "categories": "Starter,SweetSour,Chicken,Beef,Seafood,Rice"
+  },
+  {
+    "mealLetter": "C",
+    "name": "For 4 Person",
+    "price": 34.5,
+    "mealItems": "Sesame Prawn Toast(4),Mini Spring Roll(12),Barbecued Spare Ribs,Sweet & Sour Chicken (Cantonese Style),Crispy Shredded Beef,Chicken with Mushroom,Roast Duck with Green Pepper in Black Bean Sauce,Yung Chow Fried Rice",
+    "vegetarian": "false",
+    "categories": "Starter,Pork,SweetSour,Chicken,Beef,Duck,Seafood,Rice"
+  },
+  {
+    "mealLetter": "D",
+    "name": "For 2 Person",
+    "price": 14.5,
+    "mealItems": "Mini Spring Roll(10),Sweet & Sour Mixed Vegetable,Mushroom Chop Suey,Mixed Vegetable Fried Rice",
+    "vegetarian": "true",
+    "categories": "Starter,SweetSour,Rice,Vegetarian"
+  }
+]

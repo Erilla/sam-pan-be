@@ -1,0 +1,5 @@
+﻿mealLetter,name,price,mealItems,vegetarian,categories
+A,For 2 Person,19.5,"Mini Spring Roll(10),Barbecues Spare Ribs,Sweet & Sour Chicken Balls,Chicken with Green Pepper in Black Bean Sauce,Yung Chow Fried Rice",FALSE,"Starter,Pork,SweetSour,Chicken,Rice,Seafood"
+B,For 3 Person,26.5,"Mini Spring Roll(10),Sweet & Sour Chicken (Cantonese Style),Chicken with Green Pepper in Black Bean Sauce,Beef with Mushroom,King Prawns Chop Suey,Yung Chow Fried Rice",FALSE,"Starter,SweetSour,Chicken,Beef,Seafood,Rice"
+C,For 4 Person,34.5,"Sesame Prawn Toast(4),Mini Spring Roll(12),Barbecued Spare Ribs,Sweet & Sour Chicken (Cantonese Style),Crispy Shredded Beef,Chicken with Mushroom,Roast Duck with Green Pepper in Black Bean Sauce,Yung Chow Fried Rice",FALSE,"Starter,Pork,SweetSour,Chicken,Beef,Duck,Seafood,Rice"
+D,For 2 Person,14.5,"Mini Spring Roll(10),Sweet & Sour Mixed Vegetable,Mushroom Chop Suey,Mixed Vegetable Fried Rice",TRUE,"Starter,SweetSour,Rice,Vegetarian"

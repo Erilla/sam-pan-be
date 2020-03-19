@@ -1,0 +1,182 @@
+﻿itemNumber,name,chineseName,description,Price,quantity,mainCategory,categories,vegetarian
+1,Hot Combination,"排骨,芝麻蝦多士,炸海草,春卷","Ribs, Spring Roll, Prawn Toast, Crispy Seaweed",4.5,,Starter,"Starter,Seafood",FALSE
+2,Poppadom,大餅,,1.5,2,Starter,"Starter,Vegetarian",TRUE
+3,Crispy Seaweed,炸海草,,3,,Starter,"Starter,Vegetarian",TRUE
+4,Crispy Vegetarian Mini Spring Rolls,迷你素春卷,,3.5,8,Starter,"Starter,Vegetarian",TRUE
+5,Crispy Vegetarian Pancake Roll,素春卷,,3.5,4,Starter,"Starter,Vegetarian",TRUE
+6,Crispy Pancake Roll,春卷,,2.8,,Starter,"Starter,Pork",FALSE
+7,Satay Chicken on Skewers,串燒沙爹雞,,4.5,4,Starter,"Starter,Chicken",FALSE
+8,Crispy Shredded Smoked Chicken,脆煙熏雞肉,,4.5,,Starter,"Starter,Chicken",FALSE
+9,Crispy Shredded Smoked Chicken in Chilli Sauce,辣味脆煙熏雞肉,,4.5,,Starter,"Starter,Chicken",FALSE
+10,Sesame Prawn Toast,芝麻蝦吐司,,4,,Starter,"Starter,Seafood",FALSE
+11,Chicken and Sweet Corn Soup,雞蓉粟米羹,,2.5,,Starter,"Starter,Chicken",FALSE
+12,Mushroom and Sweet Corn Soup,毛菇粟米羹,,2.5,,Starter,"Starter,Vegetarian",TRUE
+13,"Hot and Sour Soup ""Szechuan Style""",四川酸辣湯,,2.5,,Starter,"Starter,Seafood,Pork",FALSE
+14,Prawn Crackers,蝦片,,2,,Starter,Starter,FALSE
+15a,Crispy Aromatic Duck 1/4,香酥鴨 1/4,,7.5,,Starter,"Starter,Duck",FALSE
+15b,Crispy Aromatic Duck 1/2,香酥鴨 1/2,,14,,Starter,"Starter,Duck",FALSE
+16,House Special Curry,招牌咖喱,,6.1,,Curry,"Curry,Chicken,Beef,Pork,Seafood",FALSE
+17,Shrimp Curry,咖喱蝦仔,,5.8,,Curry,"Curry,Seafood",FALSE
+18,King Prawn Curry,咖喱大蝦,,6,,Curry,"Curry,Seafood",FALSE
+19,Roast Duck Curry,咖喱鴨,,6.1,,Curry,"Curry,Duck",FALSE
+20,Chicken Curry,咖喱雞,,5.8,,Curry,"Curry,Chicken",FALSE
+21,Beef Curry,咖喱牛,,5.9,,Curry,"Curry,Beef",FALSE
+22,Roast Pork Curry,咖哩叉燒,,5.8,,Curry,"Curry,Pork",FALSE
+23,Mushroom Curry,咖哩蘑菇,,5.5,,Curry,"Curry,Vegetarian",TRUE
+24,Mixed Vegetable Curry,咖喱什菜,,5.5,,Curry,"Curry,Vegetarian",TRUE
+25,Sweet & Sour King Prawn Balls,咕嚕大蝦球,,5.5,,SweetSour,"SweetSour,Seafood",FALSE
+26,Sweet & Sour King Prawn (Cantonese Style),港式咕嚕大蝦,,5.5,,SweetSour,"SweetSour,Seafood",FALSE
+27,Sweet & Sour Chicken Balls,咕嚕雞球,,5.1,,SweetSour,"SweetSour,Chicken",FALSE
+28,Sweet & Sour Chicken (Cantonese Style),港式咕嚕雞,,5.1,,SweetSour,"SweetSour,Chicken",FALSE
+29,Sweet & Sour Mixed Vegetable,咕嚕什菜,,5,,SweetSour,"SweetSour,Vegetarian",TRUE
+30,Roast Pork Chinese Style (with Beansprouts),中式芽菜叉燒,,5.1,,Pork,Pork,FALSE
+31,Roast Pork with Cashew Nuts,腰果叉燒,,5.1,,Pork,Pork,FALSE
+32,Roast Pork with Mushroom,蘑菇叉燒,,5.1,,Pork,Pork,FALSE
+33,Roast Pork with Mushroom in Black Bean Sauce,豉汁蘑菇叉燒,,5.1,,Pork,Pork,FALSE
+34,Roast Pork with Green Pepper in Black Bean Sauce,豉汁叉燒,,5.1,,Pork,Pork,FALSE
+35,Roast Pork in Oyster Sauce,蠔油叉燒,,5.1,,Pork,Pork,FALSE
+36,Roast Pork in Satay Sauce,沙爹叉燒,,5.1,,Pork,Pork,FALSE
+37,Roast Pork with Ginger and Spring Onion,薑蔥叉燒,,5.1,,Pork,Pork,FALSE
+38,Kung Po Roast Pork,宮保叉燒,,5.1,,Pork,Pork,FALSE
+39,Szechuan Roast Pork,四川叉燒,,5.1,,Pork,Pork,FALSE
+40,Roast Pork with Mixed Vegetable,什菜叉燒,,5.1,,Pork,Pork,FALSE
+41,Roast Pork in Honey and Black Pepper Sauce,黑椒蜜汁叉燒,,5.1,,Pork,Pork,FALSE
+42,Roast Duck Cantonese Style,中式鴨,,5.5,,Duck,Duck,FALSE
+43,Roast Duck With Mushroom,蘑菇鴨,,5.5,,Duck,Duck,FALSE
+44,Roast Duck With Mushroom in Black Bean Sauce,豉汁蘑菇鴨,,5.5,,Duck,Duck,FALSE
+45,Roast Duck with Green Pepper in Black Bean Sauce,豉汁鴨,,5.5,,Duck,Duck,FALSE
+46,Deep Fried Roast Duck in Lemon Sauce,檸汁鴨,,5.5,,Duck,Duck,FALSE
+47,Roast Duck with Ginger and Spring Onion,薑蔥鴨,,5.5,,Duck,Duck,FALSE
+48,Roast Duck with Pineapple Onion,菠蘿鴨,,5.5,,Duck,Duck,FALSE
+49,Roast Duck with Ginger and Pineapple,紫蘿鴨 ,,5.5,,Duck,Duck,FALSE
+50,Roast Duck with Mixed Vegetable,什菜鴨,,5.5,,Duck,Duck,FALSE
+51,Roast Chicken Chinese Style (with Beansprouts),中式芽菜雞,,5.1,,Chicken,Chicken,FALSE
+52,Chicken with Cashew Nuts,腰果雞,,5.1,,Chicken,Chicken,FALSE
+53,Chicken with Mushroom,蘑菇雞,,5.1,,Chicken,Chicken,FALSE
+54,Chicken with Mushroom in Black Bean Sauce,豉汁蘑菇雞,,5.1,,Chicken,Chicken,FALSE
+55,Chicken with Green Pepper in Black Bean Sauce,豉汁雞,,5.1,,Chicken,Chicken,FALSE
+56,Chicken in Oyster Sauce,蠔油雞,,5.1,,Chicken,Chicken,FALSE
+57,Chicken in Satay Sauce,沙爹雞,,5.1,,Chicken,Chicken,FALSE
+58,Deep Fried Chicken in Lemon Sauce,檸汁雞,,5.1,,Chicken,Chicken,FALSE
+59,Chicken with Ginger and Spring Onion,薑蔥雞,,5.1,,Chicken,Chicken,FALSE
+60,Chicken with Pineapple,菠蘿雞,,5.1,,Chicken,Chicken,FALSE
+61,Kung Po Chicken,宮保雞,,5.1,,Chicken,Chicken,FALSE
+62,Szechuan Chicken,四川雞,,5.1,,Chicken,Chicken,FALSE
+63,Crispy Chicken in Salt & Chilli,椒鹽雞,,5.1,,Chicken,Chicken,FALSE
+64,Crispy Chicken in Honey Sauce,蜜糖雞,,5.1,,Chicken,Chicken,FALSE
+65,Chicken with Mixed Vegetable,什菜雞 ,,5.1,,Chicken,Chicken,FALSE
+66,Beef Cantonese Style,中式牛,,5.1,,Beef,Beef,FALSE
+67,Beef with Cashew Nuts,腰果牛,,5.1,,Beef,Beef,FALSE
+68,Beef with Mushroom,蘑菇牛,,5.1,,Beef,Beef,FALSE
+69,Beef with Mushroom in Black Bean Sauce,豉汁蘑菇牛,,5.1,,Beef,Beef,FALSE
+70,Beef with Green Pepper in Black Bean Sauce,豉汁牛,,5.1,,Beef,Beef,FALSE
+71,Beef in Oyster Sauce,蠔油牛,,5.1,,Beef,Beef,FALSE
+72,Beef in Satay Sauce,沙爹牛,,5.1,,Beef,Beef,FALSE
+73,Beef in Honey and Black Pepper Sauce,黑椒蜜汁牛,,5.1,,Beef,Beef,FALSE
+74,Beef with Ginger and Spring Onion,薑蔥牛,,5.1,,Beef,Beef,FALSE
+75,Beef with Pineapple,菠蘿牛,,5.1,,Beef,Beef,FALSE
+76,Kung Po Beef,宮保牛,,5.1,,Beef,Beef,FALSE
+77,Szechuan Beef,四川牛,,5.1,,Beef,Beef,FALSE
+78,Crispy Shredded Beef,牛絲,,5.2,,Beef,Beef,FALSE
+79,King Prawns with Cashew Nuts,腰果大蝦,,5.5,,Seafood,Seafood,FALSE
+80,King Prawns with Mushroom,蘑菇大蝦,,5.5,,Seafood,Seafood,FALSE
+81,King Prawns with Mushroom in Black Bean Sauce,豉汁蘑菇大蝦,,5.5,,Seafood,Seafood,FALSE
+82,King Prawns with Green Pepper in Black Bean Sauce,豉汁大蝦,,5.5,,Seafood,Seafood,FALSE
+83,King Prawns in Oyster Sauce,蠔油大蝦,,5.5,,Seafood,Seafood,FALSE
+84,King Prawns in Satay Sauce,沙爹大蝦,,5.5,,Seafood,Seafood,FALSE
+85,King Prawns with Ginger and Spring Onion,薑蔥大蝦,,5.5,,Seafood,Seafood,FALSE
+86,Kung Po King Prawns,宮保大蝦,,5.5,,Seafood,Seafood,FALSE
+87,Szechuan King Prawns,四川大蝦,,5.5,,Seafood,Seafood,FALSE
+88,Spicy King Prawn in Salt & Chilli,椒鹽大蝦,,5.5,,Seafood,Seafood,FALSE
+89,King Prawns with Mixed Vegetable,什菜大蝦,,5.5,,Seafood,Seafood,FALSE
+90,Squid with Green Pepper in Black Bean Sauce,豉汁魷魚,,5.4,,Seafood,Seafood,FALSE
+91,Squid in Satay Sauce,沙爹魷魚,,5.4,,Seafood,Seafood,FALSE
+92,Squid with Ginger & Spring Onions,薑蔥魷魚,,5.4,,Seafood,Seafood,FALSE
+93,Szechuan Squid,四川魷魚,,5.4,,Seafood,Seafood,FALSE
+94,Spicy Squid in Salt & Chilli,椒鹽魷魚,,5.4,,Seafood,Seafood,FALSE
+95,Barbecue Spare Ribs,燒汁排骨,,5.4,,SpareRibs,Pork,FALSE
+96,Honey Spare Ribs,蜜糖排骨,,5.4,,SpareRibs,Pork,FALSE
+97,Peking Spare Ribs,京汁排骨,,5.4,,SpareRibs,Pork,FALSE
+98,Sweet & Sour Spare Ribs,咕嚕排骨,,5.4,,SpareRibs,"Pork,SweetSour",FALSE
+99,Spicy Spare Ribs in Salt & Chilli,椒鹽排骨,,5.4,,SpareRibs,Pork,FALSE
+100,Special Chop Suey,招牌什水,,5.5,,ChopSuey,"ChopSuey,Chicken,Beef,Pork,Seafood",FALSE
+101,King Prawn Chop Suey,大蝦什水,,5.5,,ChopSuey,"ChopSuey,Seafood",FALSE
+102,Beef Chop Suey,牛什水,,5.1,,ChopSuey,"ChopSuey,Beef",FALSE
+103,Chicken Chop Suey,雞什水,,5.1,,ChopSuey,"ChopSuey,Chicken",FALSE
+104,Roast Pork Chop Suey,叉燒什水,,5.1,,ChopSuey,"ChopSuey,Pork",FALSE
+105,Mushroom Chop Suey,蘑菇什水,,5.1,,ChopSuey,"ChopSuey,Vegetarian",TRUE
+106,Special Foo Yung,招牌芙蓉,,5.3,,FooYung,"FooYung,Chicken,Beef,Pork,Seafood",FALSE
+107,King Prawns Foo Yung,大蝦芙蓉,,5.5,,FooYung,"FooYung,Seafood",FALSE
+108,Shrimp Foo Yung,蝦仔芙蓉,,5.3,,FooYung,"FooYung,Seafood",FALSE
+109,Chicken Foo Yung,雞芙蓉,,5.2,,FooYung,"FooYung,Chicken",FALSE
+110,Chinese Roast Pork Foo Yung,叉燒芙蓉,,5.2,,FooYung,"FooYung,Pork",FALSE
+111,Mushroom Foo Yung,蘑菇芙蓉,,5.1,,FooYung,"FooYung,Vegetarian",TRUE
+112,Mixed Vegetable Foo Yung,什菜芙蓉,,5.1,,FooYung,"FooYung,Vegetarian",TRUE
+113,Roast Chicken,燒雞,,5.6,,English,"English,Chicken",FALSE
+114,King Prawn Omelette,大蝦奄列,,5.5,,English,"English,Seafood",FALSE
+115,Shrimp Omelette,蝦仔奄列,,5.3,,English,"English,Seafood",FALSE
+116,Chicken Omelette,雞奄列,,5.2,,English,"English,Chicken",FALSE
+117,Roast Pork Omelette,雞奄列,,5.2,,English,"English,Pork",FALSE
+118,Mushroom Omelette,蘑菇奄列,,5.1,,English,"English,Vegetarian",TRUE
+119,Plain Omelette,淨奄列,,5,,English,"English,Vegetarian",TRUE
+120,House Special Fried Rice,招牌炒飯,,5.6,,Rice,"Rice,Chicken,Beef,Pork,Seafood",FALSE
+121,Yung Chow Fried Rice,楊州炒飯,,5.2,,Rice,"Rice,Pork,Seafood",FALSE
+122,Roast Pork Fried Rice,叉燒炒飯,,5.1,,Rice,"Rice,Pork",FALSE
+123,Chicken Fried Rice,雞炒飯,,5.1,,Rice,"Rice,Chicken",FALSE
+124,Beef Fried Rice,牛炒飯,,5.1,,Rice,"Rice,Beef",FALSE
+125,Duck Fried Rice,鴨炒飯,,5.4,,Rice,"Rice,Duck",FALSE
+126,King Prawn Fried Rice,大蝦炒飯,,5.4,,Rice,"Rice,Seafood",FALSE
+127,Mushroom Fried Rice,蘑菇炒飯,,5,,Rice,"Rice,Mushroom",FALSE
+128,Mixed Vegetable Fried Rice,什菜炒飯,,5,,Rice,"Rice,Vegetarian",TRUE
+129,Singapore Style Fried Rice,星州炒飯,,5.1,,Rice,"Rice,Seafood,Pork",FALSE
+130,Egg Fried Rice,蛋炒飯,,2.5,,Rice,"Rice,Vegetarian",TRUE
+131,Boiled Rice,白飯,,2,,Rice,"Rice,Vegetarian",TRUE
+132,House Special Chow Mein,招牌炒麵,Dry,5.6,,ChowMein,"ChowMein,Chicken,Beef,Pork,Seafood",FALSE
+133,Roast Pork Chow Mein,叉燒炒麵,Dry,5.2,,ChowMein,"ChowMein,Pork",FALSE
+134,Chicken Chow Mein,雞炒麵,Dry,5.2,,ChowMein,"ChowMein,Chicken",FALSE
+135,Beef Chow Mein,牛炒麵,Dry,5.2,,ChowMein,"ChowMein,Beef",FALSE
+136,Duck Chow Mein,鴨炒麵,Dry,5.4,,ChowMein,"ChowMein,Duck",FALSE
+137,King Prawn Chow Mein,大蝦炒麵,Dry,5.4,,ChowMein,"ChowMein,Seafood",FALSE
+138,Mixed Vegetable Chow Mein,什菜炒麵,Dry,5,,ChowMein,"ChowMein,Vegetarian",TRUE
+139,Plain Chow Mein (with Beanprouts),銀芽炒麵,Dry,3,,ChowMein,"ChowMein,Vegetarian",TRUE
+140,House Special Chow Mein,招牌炒麵 (蠔油汁),In Oyster Sauce,5.7,,ChowMein,"ChowMein,Chicken,Beef,Pork,Seafood",FALSE
+141,Roast Pork Chow Mein,叉燒炒麵 (蠔油汁),In Oyster Sauce,5.1,,ChowMein,"ChowMein,Pork",FALSE
+142,Chicken Chow Mein,雞炒麵 (蠔油汁),In Oyster Sauce,5.1,,ChowMein,"ChowMein,Chicken",FALSE
+143,Beef Chow Mein,牛炒麵 (蠔油汁),In Oyster Sauce,5.2,,ChowMein,"ChowMein,Beef",FALSE
+144,Duck Chow Mein,鴨炒麵 (蠔油汁),In Oyster Sauce,5.6,,ChowMein,"ChowMein,Duck",FALSE
+145,King Prawn Chow Mein,大蝦炒麵 (蠔油汁),In Oyster Sauce,5.6,,ChowMein,"ChowMein,Seafood",FALSE
+146,House Special Chow Mein,招牌炒麵 (沙爹汁),In Satay Sauce,5.7,,ChowMein,"ChowMein,Chicken,Beef,Pork,Seafood",FALSE
+147,Roast Pork Chow Mein,叉燒炒麵  (沙爹汁),In Satay Sauce,5.1,,ChowMein,"ChowMein,Pork",FALSE
+148,Chicken Chow Mein,雞炒麵 (沙爹汁),In Satay Sauce,5.1,,ChowMein,"ChowMein,Chicken",FALSE
+149,Beef Chow Mein,牛炒麵 (沙爹汁),In Satay Sauce,5.2,,ChowMein,"ChowMein,Beef",FALSE
+150,King Prawn Chow Mein,大蝦炒麵 (沙爹汁),In Satay Sauce,5.6,,ChowMein,"ChowMein,Seafood",FALSE
+151,House Special Chow Mein,招牌炒麵 (豉椒汁),In Black Bean Sauce,5.7,,ChowMein,"ChowMein,Chicken,Beef,Pork,Seafood",FALSE
+152,Roast Pork Chow Mein,叉燒炒麵 (豉椒汁),In Black Bean Sauce,5.1,,ChowMein,"ChowMein,Pork",FALSE
+153,Chicken Chow Mein,雞炒麵 (豉椒汁),In Black Bean Sauce,5.1,,ChowMein,"ChowMein,Chicken",FALSE
+154,Beef Chow Mein,牛炒麵 (豉椒汁),In Black Bean Sauce,5.2,,ChowMein,"ChowMein,Beef",FALSE
+155,King Prawn Chow Mein,大蝦炒麵 (豉椒汁),In Black Bean Sauce,5.6,,ChowMein,"ChowMein,Seafood",FALSE
+156,Spicy Singapore-style fried Vermicelli,星州炒米,,5.6,,ChowMein,"ChowMein,Seafood,Pork",FALSE
+157,Vegetarian Singapore-style Fried Vermicelli,星州什菜炒米,,5.3,,ChowMein,"ChowMein,Vegetarian",TRUE
+158,Fried Beanprouts,炒芽菜,,2.9,,Extra,"Extra,Vegetarian",TRUE
+159,Fried Mushrooms,炒蘑菇,,2.9,,Extra,"Extra,Vegetarian",TRUE
+160,Fried Mixed Vegetable,炒什菜,,2.9,,Extra,"Extra,Vegetarian",TRUE
+161,Fried Onion,炒洋蔥,,2.9,,Extra,"Extra,Vegetarian",TRUE
+162,Curry Sauce,咖喱汁,,1.5,,Extra,"Extra,Vegetarian",TRUE
+163,Sweet and Sour Sauce,咕嚕汁,,1.5,,Extra,"Extra,Vegetarian,SweetSour",TRUE
+164,Peking Sauce,京汁,,1.5,,Extra,"Extra,Vegetarian",TRUE
+165,Barbecue Sauce,燒汁,,1.5,,Extra,Extra,FALSE
+166,Chips,薯條,,1.8,,Extra,"Extra,Vegetarian",TRUE
+167,Chips in Salt & Chilli,椒鹽薯條,,2.9,,Extra,"Extra,Vegetarian",TRUE
+S1,"Chicken Balls with Fried Rice, Chips & Sauce",雞球/蛋炒飯/薯條(汁),5 Chicken Balls,6.5,,Special,"Special,Rice,Chicken,SweetSour",FALSE
+S2,"Chicken Balls With Fried Noodles, Fried Rice & Sauce",雞球/炒麵/蛋炒飯 (汁),5 Chicken Balls,6.5,,Special,"Special,Chicken,Rice,SweetSour",FALSE
+S3,Chicken Curry with Fried Rice & Chicken Balls,咖喱雞/蛋炒飯/雞球,5 Chicken Balls,6.5,,Special,"Special,Chicken,Curry,Rice,SweetSour",FALSE
+S4,Beef Curry with Fried Rice & Chicken Balls,咖喱牛/蛋炒飯/雞球,5 Chicken Balls,6.5,,Special,"Special,Beef,Rice,Chicken,SweetSour",FALSE
+S5,Chicken in Black Bean Sauce with Pancake Rolls & Fried Rice,豉汁雞/春卷/蛋炒飯,,6.5,,Special,"Special,Chicken,Rice",FALSE
+S6,Beef Chicken in Black Bean Sauce with Pancake Rolls & Fried Rice,豉汁牛/春卷/蛋炒飯,,6.5,,Special,"Special,Beef,Rice",FALSE
+S7,Chicken with Water Chestnuts & Bamboo Shoots with Fried Rice & Pancake Rolls,竹筍雞/炒飯/春卷,,6.5,,Special,"Special,Chicken,Rice",FALSE
+S8,Beef with Water Chestnuts & Bamboo Shoots with Fried Rice & Pancake Rolls,竹筍牛/炒飯/春卷,,6.5,,Special,"Special,Beef,Rice",FALSE
+S9,Chicken Chop Suey with Fried Rice & Pancake Rolls,雞什水/炒飯/春卷,,6.5,,Special,"Special,Chicken,ChopSuey,Rice",FALSE
+S10,Beef Chop Suey with Fried Rice & Pancake Rolls,牛什水/炒飯/春卷,,6.5,,Special,"Special,Beef,ChopSuey,Rice",FALSE
+S11,Chicken in Oyster Sauce with Fried Rice & Chicken Balls,蠔油雞/蛋炒飯/雞球,5 Chicken Balls,6.5,,Special,"Special,Chicken,SweetSour",FALSE
+S12,Beef in Oyster Sauce with Fried Rice & Chicken Balls,蠔油牛/蛋炒飯/雞球,5 Chicken Balls,6.5,,Special,"Special,Beef,Chicken,SweetSour",FALSE
+S13,Mixed Vegetables in Black Bean Sauce with Vegetarian Pancake Rolls & Fried Rice,豉汁什菜/春卷/蛋炒飯,,6.5,,Special,"Special,Rice,Vegetarian",TRUE

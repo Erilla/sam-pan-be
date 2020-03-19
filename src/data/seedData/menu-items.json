@@ -1,0 +1,1812 @@
+[
+  {
+    "itemNumber": 1,
+    "name": "Hot Combination",
+    "description": "Ribs, Spring Roll, Prawn Toast, Crispy Seaweed",
+    "price": 4.5,
+    "quantity": "",
+    "mainCategory": "Starter",
+    "categories": "Starter,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 2,
+    "name": "Poppadom",
+    "description": "",
+    "price": 1.5,
+    "quantity": 2,
+    "mainCategory": "Starter",
+    "categories": "Starter,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 3,
+    "name": "Crispy Seaweed",
+    "description": "",
+    "price": 3,
+    "quantity": "",
+    "mainCategory": "Starter",
+    "categories": "Starter,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 4,
+    "name": "Crispy Vegetarian Mini Spring Rolls",
+    "description": "",
+    "price": 3.5,
+    "quantity": 8,
+    "mainCategory": "Starter",
+    "categories": "Starter,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 5,
+    "name": "Crispy Vegetarian Pancake Roll",
+    "description": "",
+    "price": 3.5,
+    "quantity": 4,
+    "mainCategory": "Starter",
+    "categories": "Starter,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 6,
+    "name": "Crispy Pancake Roll",
+    "description": "",
+    "price": 2.8,
+    "quantity": "",
+    "mainCategory": "Starter",
+    "categories": "Starter,Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 7,
+    "name": "Satay Chicken on Skewers",
+    "description": "",
+    "price": 4.5,
+    "quantity": 4,
+    "mainCategory": "Starter",
+    "categories": "Starter,Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 8,
+    "name": "Crispy Shredded Smoked Chicken",
+    "description": "",
+    "price": 4.5,
+    "quantity": "",
+    "mainCategory": "Starter",
+    "categories": "Starter,Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 9,
+    "name": "Crispy Shredded Smoked Chicken in Chilli Sauce",
+    "description": "",
+    "price": 4.5,
+    "quantity": "",
+    "mainCategory": "Starter",
+    "categories": "Starter,Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 10,
+    "name": "Sesame Prawn Toast",
+    "description": "",
+    "price": 4,
+    "quantity": "",
+    "mainCategory": "Starter",
+    "categories": "Starter,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 11,
+    "name": "Chicken and Sweet Corn Soup",
+    "description": "",
+    "price": 2.5,
+    "quantity": "",
+    "mainCategory": "Starter",
+    "categories": "Starter,Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 12,
+    "name": "Mushroom and Sweet Corn Soup",
+    "description": "",
+    "price": 2.5,
+    "quantity": "",
+    "mainCategory": "Starter",
+    "categories": "Starter,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 13,
+    "name": "Hot and Sour Soup \"Szechuan Style\"",
+    "description": "",
+    "price": 2.5,
+    "quantity": "",
+    "mainCategory": "Starter",
+    "categories": "Starter,Seafood,Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 14,
+    "name": "Prawn Crackers",
+    "description": "",
+    "price": 2,
+    "quantity": "",
+    "mainCategory": "Starter",
+    "categories": "Starter",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": "15a",
+    "name": "Crispy Aromatic Duck",
+    "description": "",
+    "price": 7.5,
+    "quantity": "1/4",
+    "mainCategory": "Starter",
+    "categories": "Starter,Duck",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": "15b",
+    "name": "Crispy Aromatic Duck",
+    "description": "",
+    "price": 14,
+    "quantity": "1/2",
+    "mainCategory": "Starter",
+    "categories": "Starter,Duck",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 16,
+    "name": "House Special Curry",
+    "description": "",
+    "price": 6.1,
+    "quantity": "",
+    "mainCategory": "Curry",
+    "categories": "Curry,Chicken,Beef,Pork,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 17,
+    "name": "Shrimp Curry",
+    "description": "",
+    "price": 5.8,
+    "quantity": "",
+    "mainCategory": "Curry",
+    "categories": "Curry,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 18,
+    "name": "King Prawn Curry",
+    "description": "",
+    "price": 6,
+    "quantity": "",
+    "mainCategory": "Curry",
+    "categories": "Curry,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 19,
+    "name": "Roast Duck Curry",
+    "description": "",
+    "price": 6.1,
+    "quantity": "",
+    "mainCategory": "Curry",
+    "categories": "Curry,Duck",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 20,
+    "name": "Chicken Curry",
+    "description": "",
+    "price": 5.8,
+    "quantity": "",
+    "mainCategory": "Curry",
+    "categories": "Curry,Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 21,
+    "name": "Beef Curry",
+    "description": "",
+    "price": 5.9,
+    "quantity": "",
+    "mainCategory": "Curry",
+    "categories": "Curry,Beef",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 22,
+    "name": "Roast Pork Curry",
+    "description": "",
+    "price": 5.8,
+    "quantity": "",
+    "mainCategory": "Curry",
+    "categories": "Curry,Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 23,
+    "name": "Mushroom Curry",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "Curry",
+    "categories": "Curry,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 24,
+    "name": "Mixed Vegetable Curry",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "Curry",
+    "categories": "Curry,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 25,
+    "name": "Sweet & Sour King Prawn Balls",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "SweetSour",
+    "categories": "SweetSour,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 26,
+    "name": "Sweet & Sour King Prawn (Cantonese Style)",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "SweetSour",
+    "categories": "SweetSour,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 27,
+    "name": "Sweet & Sour Chicken Balls",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "SweetSour",
+    "categories": "SweetSour,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 28,
+    "name": "Sweet & Sour Chicken (Cantonese Style)",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "SweetSour",
+    "categories": "SweetSour,Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 29,
+    "name": "Sweet & Sour Mixed Vegetable",
+    "description": "",
+    "price": 4.8,
+    "quantity": "",
+    "mainCategory": "SweetSour",
+    "categories": "SweetSour,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 30,
+    "name": "Roast Pork Chinese Style (with Beansprouts)",
+    "description": "",
+    "price": 4.9,
+    "quantity": "",
+    "mainCategory": "Pork",
+    "categories": "Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 31,
+    "name": "Roast Pork with Cashew Nuts",
+    "description": "",
+    "price": 4.9,
+    "quantity": "",
+    "mainCategory": "Pork",
+    "categories": "Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 32,
+    "name": "Roast Pork with Mushroom",
+    "description": "",
+    "price": 4.9,
+    "quantity": "",
+    "mainCategory": "Pork",
+    "categories": "Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 33,
+    "name": "Roast Pork with Mushroom in Black Bean Sauce",
+    "description": "",
+    "price": 4.9,
+    "quantity": "",
+    "mainCategory": "Pork",
+    "categories": "Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 34,
+    "name": "Roast Pork with Green Pepper in Black Bean Sauce",
+    "description": "",
+    "price": 4.9,
+    "quantity": "",
+    "mainCategory": "Pork",
+    "categories": "Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 35,
+    "name": "Roast Pork in Oyster Sauce",
+    "description": "",
+    "price": 4.9,
+    "quantity": "",
+    "mainCategory": "Pork",
+    "categories": "Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 36,
+    "name": "Roast Pork in Satay Sauce",
+    "description": "",
+    "price": 4.9,
+    "quantity": "",
+    "mainCategory": "Pork",
+    "categories": "Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 37,
+    "name": "Roast Pork with Ginger and Spring Onion",
+    "description": "",
+    "price": 4.9,
+    "quantity": "",
+    "mainCategory": "Pork",
+    "categories": "Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 38,
+    "name": "Kung Po Roast Pork",
+    "description": "",
+    "price": 4.9,
+    "quantity": "",
+    "mainCategory": "Pork",
+    "categories": "Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 39,
+    "name": "Szechuan Roast Pork",
+    "description": "",
+    "price": 4.9,
+    "quantity": "",
+    "mainCategory": "Pork",
+    "categories": "Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 40,
+    "name": "Roast Pork with Mixed Vegetable",
+    "description": "",
+    "price": 4.9,
+    "quantity": "",
+    "mainCategory": "Pork",
+    "categories": "Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 41,
+    "name": "Roast Pork in Honey and Black Pepper Sauce",
+    "description": "",
+    "price": 4.9,
+    "quantity": "",
+    "mainCategory": "Pork",
+    "categories": "Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 42,
+    "name": "Roast Duck Cantonese Style",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "Duck",
+    "categories": "Duck",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 43,
+    "name": "Roast Duck With Mushroom",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "Duck",
+    "categories": "Duck",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 44,
+    "name": "Roast Duck With Mushroom in Black Bean Sauce",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "Duck",
+    "categories": "Duck",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 45,
+    "name": "Roast Duck with Green Pepper in Black Bean Sauce",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "Duck",
+    "categories": "Duck",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 46,
+    "name": "Deep Fried Roast Duck in Lemon Sauce",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "Duck",
+    "categories": "Duck",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 47,
+    "name": "Roast Duck with Ginger and Spring Onion",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "Duck",
+    "categories": "Duck",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 48,
+    "name": "Roast Duck with Pineapple Onion",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "Duck",
+    "categories": "Duck",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 49,
+    "name": "Roast Duck with Ginger and Pineapple",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "Duck",
+    "categories": "Duck",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 50,
+    "name": "Roast Duck with Mixed Vegetable",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "Duck",
+    "categories": "Duck",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 51,
+    "name": "Roast Chicken Chinese Style (with Beansprouts)",
+    "description": "",
+    "price": 4.8,
+    "quantity": "",
+    "mainCategory": "Chicken",
+    "categories": "Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 52,
+    "name": "Chicken with Cashew Nuts",
+    "description": "",
+    "price": 4.8,
+    "quantity": "",
+    "mainCategory": "Chicken",
+    "categories": "Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 53,
+    "name": "Chicken with Mushroom",
+    "description": "",
+    "price": 4.8,
+    "quantity": "",
+    "mainCategory": "Chicken",
+    "categories": "Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 54,
+    "name": "Chicken with Mushroom in Black Bean Sauce",
+    "description": "",
+    "price": 4.8,
+    "quantity": "",
+    "mainCategory": "Chicken",
+    "categories": "Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 55,
+    "name": "Chicken with Green Pepper in Black Bean Sauce",
+    "description": "",
+    "price": 4.8,
+    "quantity": "",
+    "mainCategory": "Chicken",
+    "categories": "Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 56,
+    "name": "Chicken in Oyster Sauce",
+    "description": "",
+    "price": 4.8,
+    "quantity": "",
+    "mainCategory": "Chicken",
+    "categories": "Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 57,
+    "name": "Chicken in Satay Sauce",
+    "description": "",
+    "price": 4.8,
+    "quantity": "",
+    "mainCategory": "Chicken",
+    "categories": "Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 58,
+    "name": "Deep Fried Chicken in Lemon Sauce",
+    "description": "",
+    "price": 4.8,
+    "quantity": "",
+    "mainCategory": "Chicken",
+    "categories": "Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 59,
+    "name": "Chicken with Ginger and Spring Onion",
+    "description": "",
+    "price": 4.8,
+    "quantity": "",
+    "mainCategory": "Chicken",
+    "categories": "Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 60,
+    "name": "Chicken with Pineapple",
+    "description": "",
+    "price": 4.8,
+    "quantity": "",
+    "mainCategory": "Chicken",
+    "categories": "Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 61,
+    "name": "Kung Po Chicken",
+    "description": "",
+    "price": 4.8,
+    "quantity": "",
+    "mainCategory": "Chicken",
+    "categories": "Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 62,
+    "name": "Szechuan Chicken",
+    "description": "",
+    "price": 4.8,
+    "quantity": "",
+    "mainCategory": "Chicken",
+    "categories": "Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 63,
+    "name": "Crispy Chicken in Salt & Chilli",
+    "description": "",
+    "price": 4.9,
+    "quantity": "",
+    "mainCategory": "Chicken",
+    "categories": "Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 64,
+    "name": "Crispy Chicken in Honey Sauce",
+    "description": "",
+    "price": 4.9,
+    "quantity": "",
+    "mainCategory": "Chicken",
+    "categories": "Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 65,
+    "name": "Chicken with Mixed Vegetable",
+    "description": "",
+    "price": 4.8,
+    "quantity": "",
+    "mainCategory": "Chicken",
+    "categories": "Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 66,
+    "name": "Beef Cantonese Style",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "Beef",
+    "categories": "Beef",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 67,
+    "name": "Beef with Cashew Nuts",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "Beef",
+    "categories": "Beef",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 68,
+    "name": "Beef with Mushroom",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "Beef",
+    "categories": "Beef",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 69,
+    "name": "Beef with Mushroom in Black Bean Sauce",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "Beef",
+    "categories": "Beef",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 70,
+    "name": "Beef with Green Pepper in Black Bean Sauce",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "Beef",
+    "categories": "Beef",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 71,
+    "name": "Beef in Oyster Sauce",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "Beef",
+    "categories": "Beef",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 72,
+    "name": "Beef in Satay Sauce",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "Beef",
+    "categories": "Beef",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 73,
+    "name": "Beef in Honey and Black Pepper Sauce",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "Beef",
+    "categories": "Beef",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 74,
+    "name": "Beef with Ginger and Spring Onion",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "Beef",
+    "categories": "Beef",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 75,
+    "name": "Beef with Pineapple",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "Beef",
+    "categories": "Beef",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 76,
+    "name": "Kung Po Beef",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "Beef",
+    "categories": "Beef",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 77,
+    "name": "Szechuan Beef",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "Beef",
+    "categories": "Beef",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 78,
+    "name": "Crispy Shredded Beef",
+    "description": "",
+    "price": 5.2,
+    "quantity": "",
+    "mainCategory": "Beef",
+    "categories": "Beef",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 79,
+    "name": "King Prawns with Cashew Nuts",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "Seafood",
+    "categories": "Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 80,
+    "name": "King Prawns with Mushroom",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "Seafood",
+    "categories": "Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 81,
+    "name": "King Prawns with Mushroom in Black Bean Sauce",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "Seafood",
+    "categories": "Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 82,
+    "name": "King Prawns with Green Pepper in Black Bean Sauce",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "Seafood",
+    "categories": "Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 83,
+    "name": "King Prawns in Oyster Sauce",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "Seafood",
+    "categories": "Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 84,
+    "name": "King Prawns in Satay Sauce",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "Seafood",
+    "categories": "Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 85,
+    "name": "King Prawns with Ginger and Spring Onion",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "Seafood",
+    "categories": "Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 86,
+    "name": "Kung Po King Prawns",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "Seafood",
+    "categories": "Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 87,
+    "name": "Szechuan King Prawns",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "Seafood",
+    "categories": "Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 88,
+    "name": "Spicy King Prawn in Salt & Chilli",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "Seafood",
+    "categories": "Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 89,
+    "name": "King Prawns with Mixed Vegetable",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "Seafood",
+    "categories": "Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 90,
+    "name": "Squid with Green Pepper in Black Bean Sauce",
+    "description": "",
+    "price": 5.4,
+    "quantity": "",
+    "mainCategory": "Seafood",
+    "categories": "Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 91,
+    "name": "Squid in Satay Sauce",
+    "description": "",
+    "price": 5.4,
+    "quantity": "",
+    "mainCategory": "Seafood",
+    "categories": "Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 92,
+    "name": "Squid with Ginger & Spring Onions",
+    "description": "",
+    "price": 5.4,
+    "quantity": "",
+    "mainCategory": "Seafood",
+    "categories": "Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 93,
+    "name": "Szechuan Squid",
+    "description": "",
+    "price": 5.4,
+    "quantity": "",
+    "mainCategory": "Seafood",
+    "categories": "Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 94,
+    "name": "Spicy Squid in Salt & Chilli",
+    "description": "",
+    "price": 5.4,
+    "quantity": "",
+    "mainCategory": "Seafood",
+    "categories": "Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 95,
+    "name": "Barbecue Spare Ribs",
+    "description": "",
+    "price": 5.4,
+    "quantity": "",
+    "mainCategory": "SpareRibs",
+    "categories": "Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 96,
+    "name": "Honey Spare Ribs",
+    "description": "",
+    "price": 5.4,
+    "quantity": "",
+    "mainCategory": "SpareRibs",
+    "categories": "Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 97,
+    "name": "Peking Spare Ribs",
+    "description": "",
+    "price": 5.4,
+    "quantity": "",
+    "mainCategory": "SpareRibs",
+    "categories": "Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 98,
+    "name": "Sweet & Sour Spare Ribs",
+    "description": "",
+    "price": 5.4,
+    "quantity": "",
+    "mainCategory": "SpareRibs",
+    "categories": "Pork,SweetSour",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 99,
+    "name": "Spicy Spare Ribs in Salt & Chilli",
+    "description": "",
+    "price": 5.4,
+    "quantity": "",
+    "mainCategory": "SpareRibs",
+    "categories": "Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 100,
+    "name": "Special Chop Suey",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "ChopSuey",
+    "categories": "ChopSuey,Chicken,Beef,Pork,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 101,
+    "name": "King Prawn Chop Suey",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "ChopSuey",
+    "categories": "ChopSuey,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 102,
+    "name": "Beef Chop Suey",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "ChopSuey",
+    "categories": "ChopSuey,Beef",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 103,
+    "name": "Chicken Chop Suey",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "ChopSuey",
+    "categories": "ChopSuey,Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 104,
+    "name": "Roast Pork Chop Suey",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "ChopSuey",
+    "categories": "ChopSuey,Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 105,
+    "name": "Mushroom Chop Suey",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "ChopSuey",
+    "categories": "ChopSuey,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 106,
+    "name": "Special Foo Yung",
+    "description": "",
+    "price": 5.3,
+    "quantity": "",
+    "mainCategory": "FooYung",
+    "categories": "FooYung,Chicken,Beef,Pork,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 107,
+    "name": "King Prawns Foo Yung",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "FooYung",
+    "categories": "FooYung,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 108,
+    "name": "Shrimp Foo Yung",
+    "description": "",
+    "price": 5.3,
+    "quantity": "",
+    "mainCategory": "FooYung",
+    "categories": "FooYung,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 109,
+    "name": "Chicken Foo Yung",
+    "description": "",
+    "price": 5.2,
+    "quantity": "",
+    "mainCategory": "FooYung",
+    "categories": "FooYung,Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 110,
+    "name": "Chinese Roast Pork Foo Yung",
+    "description": "",
+    "price": 5.2,
+    "quantity": "",
+    "mainCategory": "FooYung",
+    "categories": "FooYung,Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 111,
+    "name": "Mushroom Foo Yung",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "FooYung",
+    "categories": "FooYung,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 112,
+    "name": "Mixed Vegetable Foo Yung",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "FooYung",
+    "categories": "FooYung,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 113,
+    "name": "Roast Chicken",
+    "description": "",
+    "price": 5.6,
+    "quantity": "",
+    "mainCategory": "English",
+    "categories": "English,Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 114,
+    "name": "King Prawn Omelette",
+    "description": "",
+    "price": 5.5,
+    "quantity": "",
+    "mainCategory": "English",
+    "categories": "English,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 115,
+    "name": "Shrimp Omelette",
+    "description": "",
+    "price": 5.3,
+    "quantity": "",
+    "mainCategory": "English",
+    "categories": "English,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 116,
+    "name": "Chicken Omelette",
+    "description": "",
+    "price": 5.2,
+    "quantity": "",
+    "mainCategory": "English",
+    "categories": "English,Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 117,
+    "name": "Roast Pork Omelette",
+    "description": "",
+    "price": 5.2,
+    "quantity": "",
+    "mainCategory": "English",
+    "categories": "English,Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 118,
+    "name": "Mushroom Omelette",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "English",
+    "categories": "English,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 119,
+    "name": "Plain Omelette",
+    "description": "",
+    "price": 5,
+    "quantity": "",
+    "mainCategory": "English",
+    "categories": "English,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 120,
+    "name": "House Special Fried Rice",
+    "description": "",
+    "price": 5.6,
+    "quantity": "",
+    "mainCategory": "Rice",
+    "categories": "Rice,Chicken,Beef,Pork,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 121,
+    "name": "Yung Chow Fried Rice",
+    "description": "",
+    "price": 5.2,
+    "quantity": "",
+    "mainCategory": "Rice",
+    "categories": "Rice,Pork,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 122,
+    "name": "Roast Pork Fried Rice",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "Rice",
+    "categories": "Rice,Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 123,
+    "name": "Chicken Fried Rice",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "Rice",
+    "categories": "Rice,Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 124,
+    "name": "Beef Fried Rice",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "Rice",
+    "categories": "Rice,Beef",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 125,
+    "name": "Duck Fried Rice",
+    "description": "",
+    "price": 5.4,
+    "quantity": "",
+    "mainCategory": "Rice",
+    "categories": "Rice,Duck",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 126,
+    "name": "King Prawn Fried Rice",
+    "description": "",
+    "price": 5.4,
+    "quantity": "",
+    "mainCategory": "Rice",
+    "categories": "Rice,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 127,
+    "name": "Mushroom Fried Rice",
+    "description": "",
+    "price": 4.9,
+    "quantity": "",
+    "mainCategory": "Rice",
+    "categories": "Rice,Mushroom",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 128,
+    "name": "Mixed Vegetable Fried Rice",
+    "description": "",
+    "price": 4.9,
+    "quantity": "",
+    "mainCategory": "Rice",
+    "categories": "Rice,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 129,
+    "name": "Singapore Style Fried Rice",
+    "description": "",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "Rice",
+    "categories": "Rice,Seafood,Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 130,
+    "name": "Egg Fried Rice",
+    "description": "",
+    "price": 2.5,
+    "quantity": "",
+    "mainCategory": "Rice",
+    "categories": "Rice,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 131,
+    "name": "Boiled Rice",
+    "description": "",
+    "price": 2,
+    "quantity": "",
+    "mainCategory": "Rice",
+    "categories": "Rice,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 132,
+    "name": "House Special Chow Mein",
+    "description": "Dry",
+    "price": 5.6,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Chicken,Beef,Pork,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 133,
+    "name": "Roast Pork Chow Mein",
+    "description": "Dry",
+    "price": 5.2,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 134,
+    "name": "Chicken Chow Mein",
+    "description": "Dry",
+    "price": 5.2,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 135,
+    "name": "Beef Chow Mein",
+    "description": "Dry",
+    "price": 5.2,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Beef",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 136,
+    "name": "Duck Chow Mein",
+    "description": "Dry",
+    "price": 5.4,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Duck",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 137,
+    "name": "King Prawn Chow Mein",
+    "description": "Dry",
+    "price": 5.4,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 138,
+    "name": "Mixed Vegetable Chow Mein",
+    "description": "Dry",
+    "price": 4.9,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 139,
+    "name": "Plain Chow Mein (with Beanprouts)",
+    "description": "Dry",
+    "price": 3,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 140,
+    "name": "House Special Chow Mein",
+    "description": "In Oyster Sauce",
+    "price": 5.7,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Chicken,Beef,Pork,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 141,
+    "name": "Roast Pork Chow Mein",
+    "description": "In Oyster Sauce",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 142,
+    "name": "Chicken Chow Mein",
+    "description": "In Oyster Sauce",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 143,
+    "name": "Beef Chow Mein",
+    "description": "In Oyster Sauce",
+    "price": 5.2,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Beef",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 144,
+    "name": "Duck Chow Mein",
+    "description": "In Oyster Sauce",
+    "price": 5.6,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Duck",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 145,
+    "name": "King Prawn Chow Mein",
+    "description": "In Oyster Sauce",
+    "price": 5.6,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 146,
+    "name": "House Special Chow Mein",
+    "description": "In Satay Sauce",
+    "price": 5.7,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Chicken,Beef,Pork,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 147,
+    "name": "Roast Pork Chow Mein",
+    "description": "In Satay Sauce",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 148,
+    "name": "Chicken Chow Mein",
+    "description": "In Satay Sauce",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 149,
+    "name": "Beef Chow Mein",
+    "description": "In Satay Sauce",
+    "price": 5.2,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Beef",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 150,
+    "name": "King Prawn Chow Mein",
+    "description": "In Satay Sauce",
+    "price": 5.6,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 151,
+    "name": "House Special Chow Mein",
+    "description": "In Black Bean Sauce",
+    "price": 5.7,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Chicken,Beef,Pork,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 152,
+    "name": "Roast Pork Chow Mein",
+    "description": "In Black Bean Sauce",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 153,
+    "name": "Chicken Chow Mein",
+    "description": "In Black Bean Sauce",
+    "price": 5.1,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Chicken",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 154,
+    "name": "Beef Chow Mein",
+    "description": "In Black Bean Sauce",
+    "price": 5.2,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Beef",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 155,
+    "name": "King Prawn Chow Mein",
+    "description": "In Black Bean Sauce",
+    "price": 5.6,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Seafood",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 156,
+    "name": "Spicy Singapore-style fried Vermicelli",
+    "description": "",
+    "price": 5.6,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Seafood,Pork",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 157,
+    "name": "Vegetarian Singapore-style Fried Vermicelli",
+    "description": "",
+    "price": 5.3,
+    "quantity": "",
+    "mainCategory": "ChowMein",
+    "categories": "ChowMein,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 158,
+    "name": "Fried Beanprouts",
+    "description": "",
+    "price": 2.9,
+    "quantity": "",
+    "mainCategory": "Extra",
+    "categories": "Extra,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 159,
+    "name": "Fried Mushrooms",
+    "description": "",
+    "price": 2.9,
+    "quantity": "",
+    "mainCategory": "Extra",
+    "categories": "Extra,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 160,
+    "name": "Fried Mixed Vegetable",
+    "description": "",
+    "price": 2.9,
+    "quantity": "",
+    "mainCategory": "Extra",
+    "categories": "Extra,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 161,
+    "name": "Fried Onion",
+    "description": "",
+    "price": 2.9,
+    "quantity": "",
+    "mainCategory": "Extra",
+    "categories": "Extra,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 162,
+    "name": "Curry Sauce",
+    "description": "",
+    "price": 1.5,
+    "quantity": "",
+    "mainCategory": "Extra",
+    "categories": "Extra,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 163,
+    "name": "Sweet and Sour Sauce",
+    "description": "",
+    "price": 1.5,
+    "quantity": "",
+    "mainCategory": "Extra",
+    "categories": "Extra,Vegetarian,SweetSour",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 164,
+    "name": "Peking Sauce",
+    "description": "",
+    "price": 1.5,
+    "quantity": "",
+    "mainCategory": "Extra",
+    "categories": "Extra,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 165,
+    "name": "Barbecue Sauce",
+    "description": "",
+    "price": 1.5,
+    "quantity": "",
+    "mainCategory": "Extra",
+    "categories": "Extra",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": 166,
+    "name": "Chips",
+    "description": "",
+    "price": 1.8,
+    "quantity": "",
+    "mainCategory": "Extra",
+    "categories": "Extra,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": 167,
+    "name": "Chips in Salt & Chilli",
+    "description": "",
+    "price": 2.9,
+    "quantity": "",
+    "mainCategory": "Extra",
+    "categories": "Extra,Vegetarian",
+    "vegetarian": "true"
+  },
+  {
+    "itemNumber": "S1",
+    "name": "Chicken Balls with Fried Rice, Chips & Sauce",
+    "description": "5 Chicken Balls",
+    "price": 6.5,
+    "quantity": "",
+    "mainCategory": "Special",
+    "categories": "Special,Rice,Chicken,SweetSour",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": "S2",
+    "name": "Chicken Balls With Fried Noodles, Fried Rice & Sauce",
+    "description": "5 Chicken Balls",
+    "price": 6.5,
+    "quantity": "",
+    "mainCategory": "Special",
+    "categories": "Special,Chicken,Rice,SweetSour",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": "S3",
+    "name": "Chicken Curry with Fried Rice & Chicken Balls",
+    "description": "5 Chicken Balls",
+    "price": 6.5,
+    "quantity": "",
+    "mainCategory": "Special",
+    "categories": "Special,Chicken,Curry,Rice,SweetSour",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": "S4",
+    "name": "Beef Curry with Fried Rice & Chicken Balls",
+    "description": "5 Chicken Balls",
+    "price": 6.5,
+    "quantity": "",
+    "mainCategory": "Special",
+    "categories": "Special,Beef,Rice,Chicken,SweetSour",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": "S5",
+    "name": "Chicken in Black Bean Sauce with Pancake Rolls & Fried Rice",
+    "description": "",
+    "price": 6.5,
+    "quantity": "",
+    "mainCategory": "Special",
+    "categories": "Special,Chicken,Rice",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": "S6",
+    "name": "Beef Chicken in Black Bean Sauce with Pancake Rolls & Fried Rice",
+    "description": "",
+    "price": 6.5,
+    "quantity": "",
+    "mainCategory": "Special",
+    "categories": "Special,Beef,Rice",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": "S7",
+    "name": "Chicken with Water Chestnuts & Bamboo Shoots with Fried Rice & Pancake Rolls",
+    "description": "",
+    "price": 6.5,
+    "quantity": "",
+    "mainCategory": "Special",
+    "categories": "Special,Chicken,Rice",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": "S8",
+    "name": "Beef with Water Chestnuts & Bamboo Shoots with Fried Rice & Pancake Rolls",
+    "description": "",
+    "price": 6.5,
+    "quantity": "",
+    "mainCategory": "Special",
+    "categories": "Special,Beef,Rice",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": "S9",
+    "name": "Chicken Chop Suey with Fried Rice & Pancake Rolls",
+    "description": "",
+    "price": 6.5,
+    "quantity": "",
+    "mainCategory": "Special",
+    "categories": "Special,Chicken,ChopSuey,Rice",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": "S10",
+    "name": "Beef Chop Suey with Fried Rice & Pancake Rolls",
+    "description": "",
+    "price": 6.5,
+    "quantity": "",
+    "mainCategory": "Special",
+    "categories": "Special,Beef,ChopSuey,Rice",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": "S11",
+    "name": "Chicken in Oyster Sauce with Fried Rice & Chicken Balls",
+    "description": "5 Chicken Balls",
+    "price": 6.5,
+    "quantity": "",
+    "mainCategory": "Special",
+    "categories": "Special,Chicken,SweetSour",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": "S12",
+    "name": "Beef in Oyster Sauce with Fried Rice & Chicken Balls",
+    "description": "5 Chicken Balls",
+    "price": 6.5,
+    "quantity": "",
+    "mainCategory": "Special",
+    "categories": "Special,Beef,Chicken,SweetSour",
+    "vegetarian": "false"
+  },
+  {
+    "itemNumber": "S13",
+    "name": "Mixed Vegetables in Black Bean Sauce with Vegetarian Pancake Rolls & Fried Rice",
+    "description": "",
+    "price": 6.5,
+    "quantity": "",
+    "mainCategory": "Special",
+    "categories": "Special,Rice,Vegetarian",
+    "vegetarian": "true"
+  }
+]

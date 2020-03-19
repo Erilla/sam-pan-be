@@ -1,4 +1,6 @@
 import express from 'express';
+import * as database from './data/database';
+import * as seedData from './data/seedData';
 
 const app = express();
 const port = 3000;
