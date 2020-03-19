@@ -2,9 +2,12 @@
   "name": "sam-pan-be",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/app.js",
+  "main": "build/index.js",
   "scripts": {
-    "start": "tsc && node dist/app.js"
+    "build": "webpack",
+    "start": "node build/index.js",
+    "start:dev": "NODE_ENV=development webpack",
+    "run:dev": "NODE_ENV=development nodemon build/index.js"
   },
   "author": "Ryan Wong",
   "license": "ISC",
@@ -16,6 +19,14 @@
     "typescript": "^3.8.3"
   },
   "devDependencies": {
-    "@types/mongodb": "^3.5.2"
+    "@babel/core": "^7.8.7",
+    "@babel/preset-env": "^7.8.7",
+    "@types/mongodb": "^3.5.2",
+    "nodemon": "^2.0.2",
+    "ts-loader": "^6.2.1",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-node-externals": "^1.7.2",
+    "webpack-shell-plugin": "^0.5.0"
   }
 }
