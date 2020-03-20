@@ -1,32 +1,41 @@
 import * as database from './database.firebase';
 import * as seedData from './seedData';
 
+const MENUITEMS = 'menuItems';
+const SETMENUS = 'setMenus';
+
 export function getMenuItems(next: any) {
     database.getDb((err: any, db: any) => {
         if (err) {
             console.error("Failed to connect to database: " + err);
         } else {
-            db.ref('menuItems').once('value', (snapshot) => {
-                next(null, snapshot.val())
+            db.ref(MENUITEMS).orderByChild('itemNumber').once('value', (snapshot) => {
+                if (snapshot.val())
+                {
+                    next(null, snapshot.val())
+                } else {
+                    next(null, {})
+                }
             });
-
-            // db.menuItems.find().toArray((findError: any, results: any) => {
-            //     if (findError) {
-            //         next(findError, null);
-            //     } else {
-            //         next(null, results);
-            //     }
-            // })
         }
     })
 }
 
+// TODO: NOT CURRENTLY WORKING
 export function getMenuItem(requestedItemNumber: any, next: any) {
     database.getDb((err: any, db: any) => {
         if (err) {
             console.error("Failed to connect to database: " + err);
         } else {
-            db.menuItems.findOne({ itemNumber: requestedItemNumber }, next);
+            const menuItemsRef = db.ref(MENUITEMS);
+            menuItemsRef.orderByChild('itemNumber').equalTo(requestedItemNumber).once('value', (snapshot) => {
+                if (snapshot.val())
+                {
+                    next(null, snapshot.val())
+                } else {
+                    next(null, {})
+                }
+            });
         }
     })
 }
@@ -36,17 +45,14 @@ export function getSetMenus(next: any) {
         if (err) {
             console.error("Failed to connect to database: " + err);
         } else {
-            db.ref('setMenus').once('value', (snapshot) => {
-                next(null, snapshot.val())
+            db.ref(SETMENUS).orderByChild('mealLetter').once('value', (snapshot) => {
+                if (snapshot.val())
+                {
+                    next(null, snapshot.val())
+                } else {
+                    next(null, {})
+                }
             });
-
-            // db.setMenus.find().toArray((findError: any, results: any) => {
-            //     if (findError) {
-            //         next(findError, null);
-            //     } else {
-            //         next(null, results);
-            //     }
-            // })
         }
     })
 }
@@ -61,7 +67,7 @@ function seedDatabase() {
             console.error("Failed to seed database: " + err);
         } else {
             // test to see if data exists
-            const menuItemsRef = db.ref('menuItems');
+            const menuItemsRef = db.ref(MENUITEMS);
             menuItemsRef.once('value', (snapshot) => {
                 const menuItemsCount = snapshot.val()?.length || 0;
 
@@ -81,7 +87,7 @@ function seedDatabase() {
                 }
             });
 
-            const setMenusRef = db.ref('setMenus');
+            const setMenusRef = db.ref(SETMENUS);
             setMenusRef.once('value', (snapshot) => {
                 const menuItemsCount = snapshot.val()?.length || 0;
 
