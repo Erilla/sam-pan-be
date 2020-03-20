@@ -1,4 +1,4 @@
-import * as database from './database';
+import * as database from './database.firebase';
 import * as seedData from './seedData';
 
 export function getMenuItems(next: any) {
@@ -6,13 +6,17 @@ export function getMenuItems(next: any) {
         if (err) {
             console.error("Failed to connect to database: " + err);
         } else {
-            db.menuItems.find().toArray((findError: any, results: any) => {
-                if (findError) {
-                    next(findError, null);
-                } else {
-                    next(null, results);
-                }
-            })
+            db.ref('menuItems').once('value', (snapshot) => {
+                next(null, snapshot.val())
+            });
+
+            // db.menuItems.find().toArray((findError: any, results: any) => {
+            //     if (findError) {
+            //         next(findError, null);
+            //     } else {
+            //         next(null, results);
+            //     }
+            // })
         }
     })
 }
@@ -32,13 +36,17 @@ export function getSetMenus(next: any) {
         if (err) {
             console.error("Failed to connect to database: " + err);
         } else {
-            db.setMenus.find().toArray((findError: any, results: any) => {
-                if (findError) {
-                    next(findError, null);
-                } else {
-                    next(null, results);
-                }
-            })
+            db.ref('setMenus').once('value', (snapshot) => {
+                next(null, snapshot.val())
+            });
+
+            // db.setMenus.find().toArray((findError: any, results: any) => {
+            //     if (findError) {
+            //         next(findError, null);
+            //     } else {
+            //         next(null, results);
+            //     }
+            // })
         }
     })
 }
@@ -53,32 +61,45 @@ function seedDatabase() {
             console.error("Failed to seed database: " + err);
         } else {
             // test to see if data exists
-            const menuItemsCount = db.menuItems.countDocuments();
-            if (menuItemsCount === 0) {
-                console.info("Seeding the Database for Menu Items...");
+            const menuItemsRef = db.ref('menuItems');
+            menuItemsRef.once('value', (snapshot) => {
+                const menuItemsCount = snapshot.val()?.length || 0;
 
-                if (db.menuItems.insertMany(seedData.getMenuItems())){
-                    console.info("Menu Items successfully seeded")
+                if (menuItemsCount === 0) {
+                    console.info("Seeding the Database for Menu Items...");
+
+                    menuItemsRef.set(seedData.getMenuItems(), (error) => {
+                        if (error) {
+                            console.error("Failed to insert menu items into database");
+                        } else {
+                            console.info("Menu Items successfully seeded")
+                        }
+                    })
+
                 } else {
-                    console.error("Failed to insert menu items into database");
-                };
+                    console.info("MenuItems already seeded. Skipping...");
+                }
+            });
 
-            } else {
-                console.info("MenuItems already seeded. Skipping...");
-            }
+            const setMenusRef = db.ref('setMenus');
+            setMenusRef.once('value', (snapshot) => {
+                const menuItemsCount = snapshot.val()?.length || 0;
 
-            const setMenusCount = db.setMenus.countDocuments();
-            if (setMenusCount === 0) {
-                console.info("Seeding the Database for Set Menus...");
+                if (menuItemsCount === 0) {
+                    console.info("Seeding the Database for Set Menus...");
 
-                if (db.setMenus.insertMany(seedData.getSetMenus())){
-                    console.info("Set Menus successfully seeded")
+                    setMenusRef.set(seedData.getSetMenus(), (error) => {
+                        if (error) {
+                            console.error("Failed to insert Set Menus into database");
+                        } else {
+                            console.info("Set Menus successfully seeded")
+                        }
+                    })
+
                 } else {
-                    console.error("Failed to insert set menus into database");
-                };
-            } else {
-                console.info("SetMenus already seeded. Skipping...");
-            }
+                    console.info("SetMenus already seeded. Skipping...");
+                }
+            });
         }
     })
 }

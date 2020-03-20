@@ -86,6 +86,17 @@
 /************************************************************************/
 /******/ ({
 
+/***/ "./serviceAccountKey.json":
+/*!********************************!*\
+  !*** ./serviceAccountKey.json ***!
+  \********************************/
+/*! exports provided: type, project_id, private_key_id, private_key, client_email, client_id, auth_uri, token_uri, auth_provider_x509_cert_url, client_x509_cert_url, default */
+/***/ (function(module) {
+
+eval("module.exports = JSON.parse(\"{\\\"type\\\":\\\"service_account\\\",\\\"project_id\\\":\\\"sam-pan-takeaway\\\",\\\"private_key_id\\\":\\\"ae214d8367f96d181e3590b02927354e61dcad7e\\\",\\\"private_key\\\":\\\"-----BEGIN PRIVATE KEY-----\\\\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCacGDeTtPw5hJS\\\\nCev7PQtuykK+Dln25jzOCl3cEkO/ueE+esiKyLaI6QhC6+chpmmBpmZb5fmUTRh7\\\\nxm0Oap80zTiqVTHKEcUHVGpeUEaI4Mo83ijLgOorMzMQEh+3qQVXd1cElpE19Eru\\\\nXOK2bT5z5dOVU0ApLLMNxvGMGz05dF/9CoaYCe6JJcL4svJCIZjhzzotR8I0ikK/\\\\n66B6X0zaREJLtnehln5B5wsWoPiea0/6uTE2R+6R0wspUKGf8SzXnJGL79UjSJEL\\\\nKiEDvB4zaY70EBwacCOx9rqmuoM7+Fv5/mymK9R5Za74s3m1W3HxJ795Ec1rC20B\\\\nqkQBy/KLAgMBAAECggEAAughkp2WNJ8H8j5YkDJ+cBfjeLNJczGzLEeaq6U2XDnx\\\\n6NyjwKT1do84RhYtk/8PVk7c91bVQzrOPqol7FMKaxJ/wgj3dm+uLyyiEeNd6H6e\\\\nn9Wom+fxwF1m1SMaMLlALfzDiQUSd5sA/AqIg9l7hu/o8xMNjpjWR+iaLEJo/RdR\\\\npVk/PkkZFzd9LKm1BLbhmlqM266o2p/QS/orXqw2gJ7+jpvwxdZOMYUEyGiYxYGa\\\\noPdlagjPUYSWfbecN5P8PnLLAEsI7fjkI65gMSl4d5QrRtJQ4WY1HIiQVWJH8guW\\\\n6ONbpNU4QIY32Y1kVHMQl41qs11yx6xugotIhwI9uQKBgQDTlGqlUq0+E1e/tdsC\\\\n/65WpS1JFjckOW69IFyyBKN885B2qc5qfFX7bt3mweIQ3669VJcH7qt5Mmq2WZTo\\\\nkbJ6c+t6XZQiJHg6n9jz24DwxvOYT2QUlb3ViJK9lxcn01+Dml4gv3oMbyqDUHKj\\\\n36698wz4h5Qk8xOMIOFI1VtnEwKBgQC63N5vHhD2iw+eKGgjDpYPPLReakjaUOPq\\\\n8iqDnBx9OyvsgYfhm72mqUa36B+vYG+MM1vhy/mSDIPUEtnu+hJSAEXNlyh+lxTN\\\\nbZjNyO/QVPsGusF3wKg8yDnIJjxz7y3eMHWJZaIYNA54zklebbgb8hDDQL1yRoeq\\\\nTNoxLVFdqQKBgGwRSI98tSQZuR4ggub7NU7oO0MzZ6LG+vr6xp3epKqztTwG63mU\\\\nXE56iDjPGurHdXca97GDhG35BGxzQQ2xLVpCTypHFdyCiC5ZavTTTv6sf8tx8Ypa\\\\nGYYxpdHUlG0xF34eoKlVY79qIGrF8mglXhmDRULD7TUaOwe925PZ9j+lAoGAXq88\\\\nJqHdho/AQivHWLwzXVUtMAo7ECSc2JgM4tNfvDUXdKfN6ou39ZMgul9sbrk2zJvZ\\\\nmvh4ZYDh67wBog4k6lgpBpvpcPutFsrJ+rwuiCoHaMmI7t04YlQyszBswXIYk9WK\\\\nOSy+jfUSwDQHCUofWEm4JLfRRu5mH+0BQpnr+MECgYAaM/8Pi12IgdYq1xnTLtEd\\\\n2dLgmZRK2vVJ4dPoUMdqhJFmKT5vIHhhmdiU19Kj6d/mEWb32Xf3xyJAPKLZQM+N\\\\n+rYbty20ElSLHRE+z1O0FUYGeA4OFVeMFRX1oYULFKKxi97/2fOmyx3FaNhmUqeB\\\\nLANFybMU+yEcvEh+3ZcYcg==\\\\n-----END PRIVATE KEY-----\\\\n\\\",\\\"client_email\\\":\\\"firebase-adminsdk-qz8y4@sam-pan-takeaway.iam.gserviceaccount.com\\\",\\\"client_id\\\":\\\"102040151563249694962\\\",\\\"auth_uri\\\":\\\"https://accounts.google.com/o/oauth2/auth\\\",\\\"token_uri\\\":\\\"https://oauth2.googleapis.com/token\\\",\\\"auth_provider_x509_cert_url\\\":\\\"https://www.googleapis.com/oauth2/v1/certs\\\",\\\"client_x509_cert_url\\\":\\\"https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-qz8y4%40sam-pan-takeaway.iam.gserviceaccount.com\\\"}\");\n\n//# sourceURL=webpack:///./serviceAccountKey.json?");
+
+/***/ }),
+
 /***/ "./src/app.ts":
 /*!********************!*\
   !*** ./src/app.ts ***!
@@ -94,7 +105,7 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\r\nvar __importDefault = (this && this.__importDefault) || function (mod) {\r\n    return (mod && mod.__esModule) ? mod : { \"default\": mod };\r\n};\r\nvar __importStar = (this && this.__importStar) || function (mod) {\r\n    if (mod && mod.__esModule) return mod;\r\n    var result = {};\r\n    if (mod != null) for (var k in mod) if (Object.hasOwnProperty.call(mod, k)) result[k] = mod[k];\r\n    result[\"default\"] = mod;\r\n    return result;\r\n};\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nconst express_1 = __importDefault(__webpack_require__(/*! express */ \"express\"));\r\nconst controllers = __importStar(__webpack_require__(/*! ./controllers */ \"./src/controllers/index.ts\"));\r\nconst app = express_1.default();\r\nconst { PORT = 3000, } = process.env;\r\napp.use(express_1.default.urlencoded({ extended: true }));\r\napp.use(express_1.default.json());\r\ncontrollers.init(app);\r\napp.get('/', (req, res) => {\r\n    res.send({\r\n        message: 'hello world',\r\n    });\r\n});\r\napp.listen(PORT, () => {\r\n    console.log('server started at http://localhost:' + PORT);\r\n});\r\n\n\n//# sourceURL=webpack:///./src/app.ts?");
+eval("\r\nvar __importDefault = (this && this.__importDefault) || function (mod) {\r\n    return (mod && mod.__esModule) ? mod : { \"default\": mod };\r\n};\r\nvar __importStar = (this && this.__importStar) || function (mod) {\r\n    if (mod && mod.__esModule) return mod;\r\n    var result = {};\r\n    if (mod != null) for (var k in mod) if (Object.hasOwnProperty.call(mod, k)) result[k] = mod[k];\r\n    result[\"default\"] = mod;\r\n    return result;\r\n};\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nconst express_1 = __importDefault(__webpack_require__(/*! express */ \"express\"));\r\nconst controllers = __importStar(__webpack_require__(/*! ./controllers */ \"./src/controllers/index.ts\"));\r\nconst compression_1 = __importDefault(__webpack_require__(/*! compression */ \"compression\"));\r\nconst helmet_1 = __importDefault(__webpack_require__(/*! helmet */ \"helmet\"));\r\nconst app = express_1.default();\r\nconst { PORT = 3000, } = process.env;\r\napp.use(helmet_1.default());\r\napp.use(express_1.default.urlencoded({ extended: true }));\r\napp.use(express_1.default.json());\r\napp.use(compression_1.default()); // Compress all routes\r\ncontrollers.init(app);\r\napp.get('/', (req, res) => {\r\n    res.send({\r\n        message: 'hello world',\r\n    });\r\n});\r\napp.listen(PORT, () => {\r\n    console.log('server started at http://localhost:' + PORT);\r\n});\r\n\n\n//# sourceURL=webpack:///./src/app.ts?");
 
 /***/ }),
 
@@ -122,15 +133,15 @@ eval("\r\nvar __importStar = (this && this.__importStar) || function (mod) {\r\n
 
 /***/ }),
 
-/***/ "./src/data/database.ts":
-/*!******************************!*\
-  !*** ./src/data/database.ts ***!
-  \******************************/
+/***/ "./src/data/database.firebase.ts":
+/*!***************************************!*\
+  !*** ./src/data/database.firebase.ts ***!
+  \***************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\r\nvar __importDefault = (this && this.__importDefault) || function (mod) {\r\n    return (mod && mod.__esModule) ? mod : { \"default\": mod };\r\n};\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nconst mongodb_1 = __importDefault(__webpack_require__(/*! mongodb */ \"mongodb\"));\r\nconst mongoUrl = \"mongodb://localhost:27017\";\r\nlet theDb = null;\r\nfunction getDb(next) {\r\n    if (!theDb) {\r\n        // connect to the database\r\n        mongodb_1.default.MongoClient.connect(mongoUrl, { useUnifiedTopology: true }, (err, client) => {\r\n            if (err) {\r\n                next(err, null);\r\n            }\r\n            else {\r\n                const db = client.db('sampan');\r\n                theDb = {\r\n                    db,\r\n                    menuItems: db.collection(\"menuItems\"),\r\n                    setMenus: db.collection(\"setMenus\")\r\n                };\r\n                next(null, theDb);\r\n            }\r\n        });\r\n    }\r\n    else {\r\n        next(null, theDb);\r\n    }\r\n}\r\nexports.getDb = getDb;\r\n\n\n//# sourceURL=webpack:///./src/data/database.ts?");
+eval("\r\nvar __importStar = (this && this.__importStar) || function (mod) {\r\n    if (mod && mod.__esModule) return mod;\r\n    var result = {};\r\n    if (mod != null) for (var k in mod) if (Object.hasOwnProperty.call(mod, k)) result[k] = mod[k];\r\n    result[\"default\"] = mod;\r\n    return result;\r\n};\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nconst admin = __importStar(__webpack_require__(/*! firebase-admin */ \"firebase-admin\"));\r\n// tslint:disable-next-line: no-var-requires\r\nconst serviceAccount = __webpack_require__(/*! ../../serviceAccountKey.json */ \"./serviceAccountKey.json\");\r\nlet theDb = null;\r\nadmin.initializeApp({\r\n    credential: admin.credential.cert(serviceAccount),\r\n    databaseURL: \"https://sam-pan-takeaway.firebaseio.com\"\r\n});\r\nfunction getDb(next) {\r\n    const database = admin.app().database();\r\n    next(null, database);\r\n}\r\nexports.getDb = getDb;\r\n\n\n//# sourceURL=webpack:///./src/data/database.firebase.ts?");
 
 /***/ }),
 
@@ -142,7 +153,7 @@ eval("\r\nvar __importDefault = (this && this.__importDefault) || function (mod)
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\r\nvar __importStar = (this && this.__importStar) || function (mod) {\r\n    if (mod && mod.__esModule) return mod;\r\n    var result = {};\r\n    if (mod != null) for (var k in mod) if (Object.hasOwnProperty.call(mod, k)) result[k] = mod[k];\r\n    result[\"default\"] = mod;\r\n    return result;\r\n};\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nconst database = __importStar(__webpack_require__(/*! ./database */ \"./src/data/database.ts\"));\r\nconst seedData = __importStar(__webpack_require__(/*! ./seedData */ \"./src/data/seedData.ts\"));\r\nfunction getMenuItems(next) {\r\n    database.getDb((err, db) => {\r\n        if (err) {\r\n            console.error(\"Failed to connect to database: \" + err);\r\n        }\r\n        else {\r\n            db.menuItems.find().toArray((findError, results) => {\r\n                if (findError) {\r\n                    next(findError, null);\r\n                }\r\n                else {\r\n                    next(null, results);\r\n                }\r\n            });\r\n        }\r\n    });\r\n}\r\nexports.getMenuItems = getMenuItems;\r\nfunction getMenuItem(requestedItemNumber, next) {\r\n    database.getDb((err, db) => {\r\n        if (err) {\r\n            console.error(\"Failed to connect to database: \" + err);\r\n        }\r\n        else {\r\n            db.menuItems.findOne({ itemNumber: requestedItemNumber }, next);\r\n        }\r\n    });\r\n}\r\nexports.getMenuItem = getMenuItem;\r\nfunction getSetMenus(next) {\r\n    database.getDb((err, db) => {\r\n        if (err) {\r\n            console.error(\"Failed to connect to database: \" + err);\r\n        }\r\n        else {\r\n            db.setMenus.find().toArray((findError, results) => {\r\n                if (findError) {\r\n                    next(findError, null);\r\n                }\r\n                else {\r\n                    next(null, results);\r\n                }\r\n            });\r\n        }\r\n    });\r\n}\r\nexports.getSetMenus = getSetMenus;\r\n(() => {\r\n    seedDatabase();\r\n})();\r\nfunction seedDatabase() {\r\n    database.getDb((err, db) => {\r\n        if (err) {\r\n            console.error(\"Failed to seed database: \" + err);\r\n        }\r\n        else {\r\n            // test to see if data exists\r\n            const menuItemsCount = db.menuItems.countDocuments();\r\n            if (menuItemsCount === 0) {\r\n                console.info(\"Seeding the Database for Menu Items...\");\r\n                if (db.menuItems.insertMany(seedData.getMenuItems())) {\r\n                    console.info(\"Menu Items successfully seeded\");\r\n                }\r\n                else {\r\n                    console.error(\"Failed to insert menu items into database\");\r\n                }\r\n                ;\r\n            }\r\n            else {\r\n                console.info(\"MenuItems already seeded. Skipping...\");\r\n            }\r\n            const setMenusCount = db.setMenus.countDocuments();\r\n            if (setMenusCount === 0) {\r\n                console.info(\"Seeding the Database for Set Menus...\");\r\n                if (db.setMenus.insertMany(seedData.getSetMenus())) {\r\n                    console.info(\"Set Menus successfully seeded\");\r\n                }\r\n                else {\r\n                    console.error(\"Failed to insert set menus into database\");\r\n                }\r\n                ;\r\n            }\r\n            else {\r\n                console.info(\"SetMenus already seeded. Skipping...\");\r\n            }\r\n        }\r\n    });\r\n}\r\n\n\n//# sourceURL=webpack:///./src/data/index.ts?");
+eval("\r\nvar __importStar = (this && this.__importStar) || function (mod) {\r\n    if (mod && mod.__esModule) return mod;\r\n    var result = {};\r\n    if (mod != null) for (var k in mod) if (Object.hasOwnProperty.call(mod, k)) result[k] = mod[k];\r\n    result[\"default\"] = mod;\r\n    return result;\r\n};\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nconst database = __importStar(__webpack_require__(/*! ./database.firebase */ \"./src/data/database.firebase.ts\"));\r\nconst seedData = __importStar(__webpack_require__(/*! ./seedData */ \"./src/data/seedData.ts\"));\r\nfunction getMenuItems(next) {\r\n    database.getDb((err, db) => {\r\n        if (err) {\r\n            console.error(\"Failed to connect to database: \" + err);\r\n        }\r\n        else {\r\n            db.ref('menuItems').once('value', (snapshot) => {\r\n                next(null, snapshot.val());\r\n            });\r\n            // db.menuItems.find().toArray((findError: any, results: any) => {\r\n            //     if (findError) {\r\n            //         next(findError, null);\r\n            //     } else {\r\n            //         next(null, results);\r\n            //     }\r\n            // })\r\n        }\r\n    });\r\n}\r\nexports.getMenuItems = getMenuItems;\r\nfunction getMenuItem(requestedItemNumber, next) {\r\n    database.getDb((err, db) => {\r\n        if (err) {\r\n            console.error(\"Failed to connect to database: \" + err);\r\n        }\r\n        else {\r\n            db.menuItems.findOne({ itemNumber: requestedItemNumber }, next);\r\n        }\r\n    });\r\n}\r\nexports.getMenuItem = getMenuItem;\r\nfunction getSetMenus(next) {\r\n    database.getDb((err, db) => {\r\n        if (err) {\r\n            console.error(\"Failed to connect to database: \" + err);\r\n        }\r\n        else {\r\n            db.ref('setMenus').once('value', (snapshot) => {\r\n                next(null, snapshot.val());\r\n            });\r\n            // db.setMenus.find().toArray((findError: any, results: any) => {\r\n            //     if (findError) {\r\n            //         next(findError, null);\r\n            //     } else {\r\n            //         next(null, results);\r\n            //     }\r\n            // })\r\n        }\r\n    });\r\n}\r\nexports.getSetMenus = getSetMenus;\r\n(() => {\r\n    seedDatabase();\r\n})();\r\nfunction seedDatabase() {\r\n    database.getDb((err, db) => {\r\n        if (err) {\r\n            console.error(\"Failed to seed database: \" + err);\r\n        }\r\n        else {\r\n            // test to see if data exists\r\n            const menuItemsRef = db.ref('menuItems');\r\n            menuItemsRef.once('value', (snapshot) => {\r\n                var _a;\r\n                const menuItemsCount = ((_a = snapshot.val()) === null || _a === void 0 ? void 0 : _a.length) || 0;\r\n                if (menuItemsCount === 0) {\r\n                    console.info(\"Seeding the Database for Menu Items...\");\r\n                    menuItemsRef.set(seedData.getMenuItems(), (error) => {\r\n                        if (error) {\r\n                            console.error(\"Failed to insert menu items into database\");\r\n                        }\r\n                        else {\r\n                            console.info(\"Menu Items successfully seeded\");\r\n                        }\r\n                    });\r\n                }\r\n                else {\r\n                    console.info(\"MenuItems already seeded. Skipping...\");\r\n                }\r\n            });\r\n            const setMenusRef = db.ref('setMenus');\r\n            setMenusRef.once('value', (snapshot) => {\r\n                var _a;\r\n                const menuItemsCount = ((_a = snapshot.val()) === null || _a === void 0 ? void 0 : _a.length) || 0;\r\n                if (menuItemsCount === 0) {\r\n                    console.info(\"Seeding the Database for Set Menus...\");\r\n                    setMenusRef.set(seedData.getSetMenus(), (error) => {\r\n                        if (error) {\r\n                            console.error(\"Failed to insert Set Menus into database\");\r\n                        }\r\n                        else {\r\n                            console.info(\"Set Menus successfully seeded\");\r\n                        }\r\n                    });\r\n                }\r\n                else {\r\n                    console.info(\"SetMenus already seeded. Skipping...\");\r\n                }\r\n            });\r\n        }\r\n    });\r\n}\r\n\n\n//# sourceURL=webpack:///./src/data/index.ts?");
 
 /***/ }),
 
@@ -180,6 +191,17 @@ eval("module.exports = JSON.parse(\"[{\\\"mealLetter\\\":\\\"A\\\",\\\"name\\\":
 
 /***/ }),
 
+/***/ "compression":
+/*!******************************!*\
+  !*** external "compression" ***!
+  \******************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("module.exports = require(\"compression\");\n\n//# sourceURL=webpack:///external_%22compression%22?");
+
+/***/ }),
+
 /***/ "express":
 /*!**************************!*\
   !*** external "express" ***!
@@ -191,14 +213,25 @@ eval("module.exports = require(\"express\");\n\n//# sourceURL=webpack:///externa
 
 /***/ }),
 
-/***/ "mongodb":
-/*!**************************!*\
-  !*** external "mongodb" ***!
-  \**************************/
+/***/ "firebase-admin":
+/*!*********************************!*\
+  !*** external "firebase-admin" ***!
+  \*********************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("module.exports = require(\"mongodb\");\n\n//# sourceURL=webpack:///external_%22mongodb%22?");
+eval("module.exports = require(\"firebase-admin\");\n\n//# sourceURL=webpack:///external_%22firebase-admin%22?");
+
+/***/ }),
+
+/***/ "helmet":
+/*!*************************!*\
+  !*** external "helmet" ***!
+  \*************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("module.exports = require(\"helmet\");\n\n//# sourceURL=webpack:///external_%22helmet%22?");
 
 /***/ })
 

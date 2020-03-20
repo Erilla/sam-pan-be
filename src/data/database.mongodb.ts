@@ -7,7 +7,7 @@ export function getDb(next: any) {
   if (!theDb) {
 
     // connect to the database
-    mongodb.MongoClient.connect(mongoUrl, { useUnifiedTopology: true } , (err: any, client: any) => {
+    mongodb.MongoClient.connect(process.env.MONGODB_URI || mongoUrl, { useUnifiedTopology: true } , (err: any, client: any) => {
       if (err) {
         next(err, null);
       } else {
